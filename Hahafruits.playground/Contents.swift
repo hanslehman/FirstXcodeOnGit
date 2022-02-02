@@ -18,5 +18,5 @@ for _ in 1...5 {
 }
 
 for _ in 1...9999 {
-    print("hello github!")
+    print("Mr. Lehman is awesome")
 }
